@@ -1,0 +1,23 @@
+Craete datatable :  crm
+
+create database Dump file ( crm.sql)
+
+
+After create all login and password.
+
+
+admin dashboard login :
+
+username :  admin
+password : admin
+
+
+==========================
+
+
+user :
+
+username :  saurabh@gmail.com
+password :  12345678
+
+  
